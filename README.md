@@ -1,3 +1,3 @@
-- jake morgan/public services
+- jake morgan
 - - backend enjoyer.
-- termite pseudo-coding language otw
+- termite...
