@@ -1,3 +1,2 @@
 - jake morgan
-- - backend enjoyer.
 - termite...
